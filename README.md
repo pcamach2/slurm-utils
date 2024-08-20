@@ -1,6 +1,12 @@
 # slurm-utils
 Convenient bash utilities for slurm
 
+Add aliases to your `.bashrc` file:
+```
+alias stail='/path/to/stail.sh'
+alias snano='/path/to/snano.sh'
+```
+
 ## stail
 Alias to perform tail on slurm `stdout` files
 
